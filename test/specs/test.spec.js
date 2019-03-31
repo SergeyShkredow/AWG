@@ -1,9 +1,6 @@
-import Page from '../pages/test/page'
 import Dashboard from '../pages/test/dashboard.page'
 import Schedule from '../pages/test/schedule.page'
 import {FROM_DATA, TO_DATA, WHEN_DATA} from '../../constants'
-
-const page = new Page()
 
 describe('TEST', () => {
   before(() => {

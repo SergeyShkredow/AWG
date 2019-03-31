@@ -1,11 +1,9 @@
 import Page from './page'
-import {expect} from 'chai'
 
 class SchedulePage extends Page {
   get headerRasp () { return browser.element('h1=Расписание пригородного и междугородного транспорта') }
   get menuSuburban () { return browser.element('a=электричка') }
   get fromInput () { return browser.element('#from') }
-  get toInput () { return browser.element('#to') }
   get toInput () { return browser.element('#to') }
   get whenInput () { return browser.element('#when') }
   get findBtn () { return browser.element('span=Найти') }
@@ -14,10 +12,10 @@ class SchedulePage extends Page {
   open () {
     super.open('')
   }
-  chooseRoute (from_data, to_data, when_data) {
-    this.fromInput.setValue(from_data)
-    this.toInput.setValue(to_data)
-    this.whenInput.setValue(when_data)
+  chooseRoute (fromData, toData, whenData) {
+    this.fromInput.setValue(fromData)
+    this.toInput.setValue(toData)
+    this.whenInput.setValue(whenData)
     this.findBtn.click()
     browser.pause(4000)
     const beforeFilter = $$(this.searchSegmentItem.selector).length
