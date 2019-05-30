@@ -124,12 +124,18 @@ exports.config = {
   // Test reporter for stdout.
   // The following are supported: dot (default), spec and xunit
   // see also: http://webdriver.io/guide/testrunner/reporters.html
-  reporters: ['dot'],
+  reporters: ['dot', 'allure'],
   //
   // Some reporter require additional information which should get defined here
   reporterOptions: {
     htmlFormat: {
       outputDir: './reports'
+    },
+    allure: {
+      outputDir: 'allure-results',
+      disableWebdriverStepsReporting: true,
+      disableWebdriverScreenshotsReporting: true,
+      useCucumberStepReporter: false
     }
     //
     // If you are using the "unit" reporter you should define the directory where
@@ -191,7 +197,10 @@ exports.config = {
   //
   // Gets executed after all tests are done. You still have access to all global variables from
   // the test.
-  after (failures, pid) {
+  after (failures, pid, test) {
+    if (test.error !== undefined) {
+      browser.takeScreenshot();
+    }
   },
   //
   // Gets executed after all workers got shut down and the process is about to exit. It is not

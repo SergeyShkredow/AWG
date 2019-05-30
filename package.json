@@ -1,5 +1,5 @@
 {
-  "name": "schedule-tests",
+  "name": "awg",
   "version": "0.0.1",
   "description": "",
   "main": "",
@@ -34,6 +34,7 @@
     "request": "^2.85.0",
     "request-promise": "^4.2.2",
     "selenium-standalone": "^6.14.0",
+    "wdio-allure-reporter": "^0.8.3",
     "wdio-mocha-framework": "^0.5.13",
     "wdio-sauce-service": "~0.1",
     "webdriverio": "*"
