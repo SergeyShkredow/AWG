@@ -1,0 +1,20 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559373920289' stop='1559373922779'>
+    <name>AWG test</name>
+    <title>AWG test</title>
+    <test-cases>
+        <test-case start='1559373920333' status='broken' stop='1559373922778'>
+            <name>"before all" hook</name>
+            <title>"before all" hook</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>An element could not be located on the page using the given search parameters ("#GB_frame").</message>
+                <stack-trace>Error: An element could not be located on the page using the given search parameters ("#GB_frame").
+                    at isEnabled() - index.js:312:3</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

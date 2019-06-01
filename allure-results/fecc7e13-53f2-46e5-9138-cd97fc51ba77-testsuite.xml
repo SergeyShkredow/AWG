@@ -1,0 +1,21 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559291764838' stop='1559291792685'>
+    <name>AWG test</name>
+    <title>AWG test</title>
+    <test-cases>
+        <test-case start='1559291764885' status='broken' stop='1559291792684'>
+            <name>"before all" hook</name>
+            <title>"before all" hook</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>element (".login_singup_form") still not visible after 26000ms</message>
+                <stack-trace>Error: element (".login_singup_form") still not visible after 26000ms
+                    at elements(".login_singup_form") - isVisible.js:54:17
+                    at isVisible(".login_singup_form") - waitForVisible.js:73:22</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

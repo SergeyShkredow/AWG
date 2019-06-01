@@ -37,7 +37,7 @@
     "wdio-allure-reporter": "^0.8.3",
     "wdio-mocha-framework": "^0.5.13",
     "wdio-sauce-service": "~0.1",
-    "webdriverio": "*"
+    "webdriverio": "^4.14.0"
   },
   "author": "Shkredov",
   "devDependencies": {

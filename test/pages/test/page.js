@@ -1,6 +1,6 @@
 export default class Page {
   open (path = '') {
-    browser.url(`https://yandex.ru/${path}`)
+    browser.url(`https://todoist.com/${path}`)
   }
 
   isVisible (el) {
