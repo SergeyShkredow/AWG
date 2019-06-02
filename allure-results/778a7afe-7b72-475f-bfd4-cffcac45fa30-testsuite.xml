@@ -1,0 +1,58 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559466024155' stop='1559466054146'>
+    <name>TODO:</name>
+    <title>TODO:</title>
+    <test-cases>
+        <test-case start='1559466027786' status='passed' stop='1559466042974'>
+            <name>create quickly task</name>
+            <title>create quickly task</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='feature' value='Feature'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1559466042993' status='passed' stop='1559466048592'>
+            <name>create task in project</name>
+            <title>create task in project</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='feature' value='Feature'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1559466048609' status='passed' stop='1559466054129'>
+            <name>create task with bind project</name>
+            <title>create task with bind project</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='feature' value='Feature'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

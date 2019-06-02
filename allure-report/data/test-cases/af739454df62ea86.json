@@ -1,0 +1,60 @@
+{
+  "uid" : "af739454df62ea86",
+  "name" : "Create quickly task",
+  "fullName" : "AWG test:.Create quickly task",
+  "historyId" : "d19bb8f02388841d3b56aa71df36c478",
+  "time" : {
+    "start" : 1559420129082,
+    "stop" : 1559420149610,
+    "duration" : 20528
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AWG test:"
+  }, {
+    "name" : "testClass",
+    "value" : "AWG test:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Create quickly task"
+  }, {
+    "name" : "package",
+    "value" : "AWG test:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "af739454df62ea86.json",
+  "parameterValues" : [ "chrome" ]
+}

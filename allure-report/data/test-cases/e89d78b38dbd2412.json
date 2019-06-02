@@ -1,0 +1,60 @@
+{
+  "uid" : "e89d78b38dbd2412",
+  "name" : "Create task with bind project",
+  "fullName" : "AWG test:.Create task with bind project",
+  "historyId" : "18327b1ccc3cce1c100b1d2481ce508b",
+  "time" : {
+    "start" : 1559420153974,
+    "stop" : 1559420158308,
+    "duration" : 4334
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AWG test:"
+  }, {
+    "name" : "testClass",
+    "value" : "AWG test:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Create task with bind project"
+  }, {
+    "name" : "package",
+    "value" : "AWG test:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e89d78b38dbd2412.json",
+  "parameterValues" : [ "chrome" ]
+}

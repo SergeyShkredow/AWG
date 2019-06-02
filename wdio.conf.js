@@ -134,8 +134,7 @@ exports.config = {
     allure: {
       outputDir: 'allure-results',
       disableWebdriverStepsReporting: true,
-      disableWebdriverScreenshotsReporting: true,
-      useCucumberStepReporter: false
+      disableWebdriverScreenshotsReporting: true
     }
     //
     // If you are using the "unit" reporter you should define the directory where
@@ -193,6 +192,8 @@ exports.config = {
   // Gets executed before test execution begins. At this point you will have access to all global
   // variables like `browser`. It is the perfect place to define custom commands.
   before () {
+  },
+  after: function () {
   },
   //
   // Gets executed after all tests are done. You still have access to all global variables from

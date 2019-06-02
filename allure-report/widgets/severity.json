@@ -1,0 +1,31 @@
+[ {
+  "uid" : "af739454df62ea86",
+  "name" : "Create quickly task",
+  "time" : {
+    "start" : 1559420129082,
+    "stop" : 1559420149610,
+    "duration" : 20528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e89d78b38dbd2412",
+  "name" : "Create task with bind project",
+  "time" : {
+    "start" : 1559420153974,
+    "stop" : 1559420158308,
+    "duration" : 4334
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90fd35379aff272a",
+  "name" : "Create task in project",
+  "time" : {
+    "start" : 1559420149612,
+    "stop" : 1559420153973,
+    "duration" : 4361
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

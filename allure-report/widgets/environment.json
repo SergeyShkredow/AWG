@@ -1,0 +1,7 @@
+[ {
+  "values" : [ "{\"browserName\":\"chrome\",\"maxInstances\":\"10\"}" ],
+  "name" : "capabilities"
+}, {
+  "values" : [ "[\"/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js\"]" ],
+  "name" : "spec files"
+} ]

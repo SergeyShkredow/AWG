@@ -38,9 +38,8 @@ class LoginPage extends Page {
         // console.log(my_frame)
         // browser.frame(my_frame)
         let test = browser.frame(my_frame)
-        console.log(test)
         // this.emailFrame.setValue(email)
-        browser.debug()
+        // browser.debug()
         // this.passwordFrame.setValue(password)
         // this.submitForm()
     }

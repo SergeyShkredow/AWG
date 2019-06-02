@@ -1,0 +1,60 @@
+{
+  "uid" : "90fd35379aff272a",
+  "name" : "Create task in project",
+  "fullName" : "AWG test:.Create task in project",
+  "historyId" : "96c540cee315a9d5726e6807222abac5",
+  "time" : {
+    "start" : 1559420149612,
+    "stop" : 1559420153973,
+    "duration" : 4361
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Feature"
+  }, {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "AWG test:"
+  }, {
+    "name" : "testClass",
+    "value" : "AWG test:"
+  }, {
+    "name" : "testMethod",
+    "value" : "Create task in project"
+  }, {
+    "name" : "package",
+    "value" : "AWG test:"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "90fd35379aff272a.json",
+  "parameterValues" : [ "chrome" ]
+}

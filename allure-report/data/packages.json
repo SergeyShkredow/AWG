@@ -1,0 +1,45 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "AWG test:",
+    "children" : [ {
+      "name" : "Create quickly task",
+      "uid" : "af739454df62ea86",
+      "parentUid" : "61f85c28d58827a4b16a5283452e6207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559420129082,
+        "stop" : 1559420149610,
+        "duration" : 20528
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Create task in project",
+      "uid" : "90fd35379aff272a",
+      "parentUid" : "61f85c28d58827a4b16a5283452e6207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559420149612,
+        "stop" : 1559420153973,
+        "duration" : 4361
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "Create task with bind project",
+      "uid" : "e89d78b38dbd2412",
+      "parentUid" : "61f85c28d58827a4b16a5283452e6207",
+      "status" : "passed",
+      "time" : {
+        "start" : 1559420153974,
+        "stop" : 1559420158308,
+        "duration" : 4334
+      },
+      "flaky" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "61f85c28d58827a4b16a5283452e6207"
+  } ],
+  "name" : "packages"
+}
