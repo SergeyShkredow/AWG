@@ -1,12 +1,12 @@
 {
-  "uid" : "90fd35379aff272a",
-  "name" : "Create task in project",
-  "fullName" : "AWG test:.Create task in project",
-  "historyId" : "96c540cee315a9d5726e6807222abac5",
+  "uid" : "9e7a076f4b0a68d2",
+  "name" : "create task with bind project",
+  "fullName" : "TODO:.create task with bind project",
+  "historyId" : "60eebe98a807d04ea7812cfff4c5b7a6",
   "time" : {
-    "start" : 1559420149612,
-    "stop" : 1559420153973,
-    "duration" : 4361
+    "start" : 1559487318970,
+    "stop" : 1559487323347,
+    "duration" : 4377
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -28,16 +28,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "AWG test:"
+    "value" : "TODO:"
   }, {
     "name" : "testClass",
-    "value" : "AWG test:"
+    "value" : "TODO:"
   }, {
     "name" : "testMethod",
-    "value" : "Create task in project"
+    "value" : "create task with bind project"
   }, {
     "name" : "package",
-    "value" : "AWG test:"
+    "value" : "TODO:"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -55,6 +55,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "90fd35379aff272a.json",
+  "source" : "9e7a076f4b0a68d2.json",
   "parameterValues" : [ "chrome" ]
 }

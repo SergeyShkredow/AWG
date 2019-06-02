@@ -13,7 +13,6 @@ class DashboardPage extends Page {
   get header () { return browser.element('.project_link') }
   get setProject () { return browser.element('.column_project') }
 
-
   open () {
     super.open('/')
     browser.pause(300)

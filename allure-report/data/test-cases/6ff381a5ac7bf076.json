@@ -1,12 +1,12 @@
 {
-  "uid" : "af739454df62ea86",
-  "name" : "Create quickly task",
-  "fullName" : "AWG test:.Create quickly task",
-  "historyId" : "d19bb8f02388841d3b56aa71df36c478",
+  "uid" : "6ff381a5ac7bf076",
+  "name" : "create quickly task",
+  "fullName" : "TODO:.create quickly task",
+  "historyId" : "3863c796cba7695a018f8cde9a30ae96",
   "time" : {
-    "start" : 1559420129082,
-    "stop" : 1559420149610,
-    "duration" : 20528
+    "start" : 1559487308122,
+    "stop" : 1559487314685,
+    "duration" : 6563
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -28,16 +28,16 @@
     "value" : "0-0"
   }, {
     "name" : "suite",
-    "value" : "AWG test:"
+    "value" : "TODO:"
   }, {
     "name" : "testClass",
-    "value" : "AWG test:"
+    "value" : "TODO:"
   }, {
     "name" : "testMethod",
-    "value" : "Create quickly task"
+    "value" : "create quickly task"
   }, {
     "name" : "package",
-    "value" : "AWG test:"
+    "value" : "TODO:"
   }, {
     "name" : "resultFormat",
     "value" : "allure1"
@@ -55,6 +55,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "af739454df62ea86.json",
+  "source" : "6ff381a5ac7bf076.json",
   "parameterValues" : [ "chrome" ]
 }

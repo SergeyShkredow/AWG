@@ -1,30 +1,30 @@
 [ {
-  "uid" : "e89d78b38dbd2412",
-  "name" : "Create task with bind project",
+  "uid" : "9e7a076f4b0a68d2",
+  "name" : "create task with bind project",
   "time" : {
-    "start" : 1559420153974,
-    "stop" : 1559420158308,
-    "duration" : 4334
+    "start" : 1559487318970,
+    "stop" : 1559487323347,
+    "duration" : 4377
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "90fd35379aff272a",
-  "name" : "Create task in project",
+  "uid" : "c519e6ed14f507c1",
+  "name" : "create task in project",
   "time" : {
-    "start" : 1559420149612,
-    "stop" : 1559420153973,
-    "duration" : 4361
+    "start" : 1559487314688,
+    "stop" : 1559487318967,
+    "duration" : 4279
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "af739454df62ea86",
-  "name" : "Create quickly task",
+  "uid" : "6ff381a5ac7bf076",
+  "name" : "create quickly task",
   "time" : {
-    "start" : 1559420129082,
-    "stop" : 1559420149610,
-    "duration" : 20528
+    "start" : 1559487308122,
+    "stop" : 1559487314685,
+    "duration" : 6563
   },
   "status" : "passed",
   "severity" : "normal"

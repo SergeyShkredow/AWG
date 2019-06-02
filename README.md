@@ -14,7 +14,7 @@ yarn selenium
 ### START TEST (in new terminal)
 yarn test   
 
-### REPORTS
+### ALLURE REPORTS 
 -----------------
 ### clear old result
 yarn pretest

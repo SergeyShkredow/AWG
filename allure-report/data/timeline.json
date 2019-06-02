@@ -3,38 +3,38 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
-      "name" : "Create task with bind project",
-      "uid" : "e89d78b38dbd2412",
+      "name" : "create task with bind project",
+      "uid" : "9e7a076f4b0a68d2",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1559420153974,
-        "stop" : 1559420158308,
-        "duration" : 4334
+        "start" : 1559487318970,
+        "stop" : 1559487323347,
+        "duration" : 4377
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
-      "name" : "Create task in project",
-      "uid" : "90fd35379aff272a",
+      "name" : "create task in project",
+      "uid" : "c519e6ed14f507c1",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1559420149612,
-        "stop" : 1559420153973,
-        "duration" : 4361
+        "start" : 1559487314688,
+        "stop" : 1559487318967,
+        "duration" : 4279
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
-      "name" : "Create quickly task",
-      "uid" : "af739454df62ea86",
+      "name" : "create quickly task",
+      "uid" : "6ff381a5ac7bf076",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1559420129082,
-        "stop" : 1559420149610,
-        "duration" : 20528
+        "start" : 1559487308122,
+        "stop" : 1559487314685,
+        "duration" : 6563
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
