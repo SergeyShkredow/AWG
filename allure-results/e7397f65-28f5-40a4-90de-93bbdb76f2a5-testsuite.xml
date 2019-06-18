@@ -1,9 +1,9 @@
 <?xml version='1.0'?>
-<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1559487425563' stop='1559487443668'>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560890984839' stop='1560890997421'>
     <name>TODO:</name>
     <title>TODO:</title>
     <test-cases>
-        <test-case start='1559487428662' status='passed' stop='1559487435035'>
+        <test-case start='1560890987482' status='passed' stop='1560890992543'>
             <name>create quickly task</name>
             <title>create quickly task</title>
             <labels>
@@ -20,7 +20,7 @@
             <steps/>
             <attachments/>
         </test-case>
-        <test-case start='1559487435039' status='passed' stop='1559487439293'>
+        <test-case start='1560890992544' status='passed' stop='1560890994858'>
             <name>create task in project</name>
             <title>create task in project</title>
             <labels>
@@ -37,7 +37,7 @@
             <steps/>
             <attachments/>
         </test-case>
-        <test-case start='1559487439294' status='passed' stop='1559487443666'>
+        <test-case start='1560890994859' status='passed' stop='1560890997420'>
             <name>create task with bind project</name>
             <title>create task with bind project</title>
             <labels>

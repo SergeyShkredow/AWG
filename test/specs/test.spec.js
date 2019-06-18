@@ -15,7 +15,7 @@ describe('TODO:', () => {
   beforeEach(()=>{
     // Go to user dashboard
     Dashboard.logo.waitForVisible()
-    browser.pause(1000)
+    browser.pause(500)
   })
   afterEach(() => {
     reporter.feature('Feature')
@@ -24,6 +24,7 @@ describe('TODO:', () => {
   it('create quickly task', () => {
     const newTask = generateTask()
     // create new task
+    Dashboard.addTask.waitForVisible()
     Dashboard.addTask.click()
     Dashboard.createTask(newTask)
   })

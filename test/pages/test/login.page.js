@@ -10,7 +10,6 @@ class LoginPage extends Page {
 
     open () {
         super.open('/Users/showLogin')
-        browser.pause(500)
     }
 
     login({email = USER_EMAIL, password = USER_PASS} = {}) {

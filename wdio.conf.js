@@ -119,7 +119,7 @@ exports.config = {
   // Jasmine: `$ npm install jasmine`
   // Cucumber: `$ npm install cucumber`
   framework: 'mocha',
-  baseUrl: 'https://todoist.com',
+  baseUrl: 'https://beta.todoist.com',
   //
   // Test reporter for stdout.
   // The following are supported: dot (default), spec and xunit
