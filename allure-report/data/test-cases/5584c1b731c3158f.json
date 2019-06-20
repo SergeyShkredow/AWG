@@ -1,23 +1,20 @@
 {
-  "uid" : "c519e6ed14f507c1",
-  "name" : "create task in project",
-  "fullName" : "TODO:.create task in project",
-  "historyId" : "d3192de75c12a90862c35072ddb011fe",
+  "uid" : "5584c1b731c3158f",
+  "name" : "create quickly task",
+  "fullName" : "TODO:.create quickly task",
+  "historyId" : "3863c796cba7695a018f8cde9a30ae96",
   "time" : {
-    "start" : 1559487314688,
-    "stop" : 1559487318967,
-    "duration" : 4279
+    "start" : 1561017527254,
+    "stop" : 1561017529522,
+    "duration" : 2268
   },
   "description" : "",
   "descriptionHtml" : "",
-  "status" : "passed",
+  "status" : "skipped",
   "flaky" : false,
   "beforeStages" : [ ],
   "afterStages" : [ ],
   "labels" : [ {
-    "name" : "feature",
-    "value" : "Feature"
-  }, {
     "name" : "framework",
     "value" : "wdio"
   }, {
@@ -34,7 +31,7 @@
     "value" : "TODO:"
   }, {
     "name" : "testMethod",
-    "value" : "create task in project"
+    "value" : "create quickly task"
   }, {
     "name" : "package",
     "value" : "TODO:"
@@ -55,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "c519e6ed14f507c1.json",
+  "source" : "5584c1b731c3158f.json",
   "parameterValues" : [ "chrome" ]
 }

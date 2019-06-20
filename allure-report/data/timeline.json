@@ -3,38 +3,38 @@
   "children" : [ {
     "name" : "0-0",
     "children" : [ {
-      "name" : "create task with bind project",
-      "uid" : "9e7a076f4b0a68d2",
+      "name" : "create quickly task",
+      "uid" : "5584c1b731c3158f",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
+      "status" : "skipped",
       "time" : {
-        "start" : 1559487318970,
-        "stop" : 1559487323347,
-        "duration" : 4377
+        "start" : 1561017527254,
+        "stop" : 1561017529522,
+        "duration" : 2268
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
       "name" : "create task in project",
-      "uid" : "c519e6ed14f507c1",
+      "uid" : "4ec98510c714b86",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1559487314688,
-        "stop" : 1559487318967,
-        "duration" : 4279
+        "start" : 1561017520644,
+        "stop" : 1561017526684,
+        "duration" : 6040
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]
     }, {
-      "name" : "create quickly task",
-      "uid" : "6ff381a5ac7bf076",
+      "name" : "delete new project with API",
+      "uid" : "e8ebf295b8fb3ad",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1559487308122,
-        "stop" : 1559487314685,
-        "duration" : 6563
+        "start" : 1561017526685,
+        "stop" : 1561017527251,
+        "duration" : 566
       },
       "flaky" : false,
       "parameters" : [ "chrome" ]

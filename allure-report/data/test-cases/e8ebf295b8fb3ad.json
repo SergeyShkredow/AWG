@@ -1,12 +1,12 @@
 {
-  "uid" : "9e7a076f4b0a68d2",
-  "name" : "create task with bind project",
-  "fullName" : "TODO:.create task with bind project",
-  "historyId" : "60eebe98a807d04ea7812cfff4c5b7a6",
+  "uid" : "e8ebf295b8fb3ad",
+  "name" : "delete new project with API",
+  "fullName" : "TODO:.delete new project with API",
+  "historyId" : "9fb5e565f7dd9bdcbe67884a411f9803",
   "time" : {
-    "start" : 1559487318970,
-    "stop" : 1559487323347,
-    "duration" : 4377
+    "start" : 1561017526685,
+    "stop" : 1561017527251,
+    "duration" : 566
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -15,9 +15,6 @@
   "beforeStages" : [ ],
   "afterStages" : [ ],
   "labels" : [ {
-    "name" : "feature",
-    "value" : "Feature"
-  }, {
     "name" : "framework",
     "value" : "wdio"
   }, {
@@ -34,7 +31,7 @@
     "value" : "TODO:"
   }, {
     "name" : "testMethod",
-    "value" : "create task with bind project"
+    "value" : "delete new project with API"
   }, {
     "name" : "package",
     "value" : "TODO:"
@@ -55,6 +52,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "9e7a076f4b0a68d2.json",
+  "source" : "e8ebf295b8fb3ad.json",
   "parameterValues" : [ "chrome" ]
 }

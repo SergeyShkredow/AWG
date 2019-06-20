@@ -1,4 +1,4 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Jun 02 17:55:18 EEST 2019","Sun Jun 02 17:55:23 EEST 2019","4377","","TODO:","","TODO:","create task with bind project","create task with bind project",""
-"passed","Sun Jun 02 17:55:14 EEST 2019","Sun Jun 02 17:55:18 EEST 2019","4279","","TODO:","","TODO:","create task in project","create task in project",""
-"passed","Sun Jun 02 17:55:08 EEST 2019","Sun Jun 02 17:55:14 EEST 2019","6563","","TODO:","","TODO:","create quickly task","create quickly task",""
+"skipped","Thu Jun 20 10:58:47 EEST 2019","Thu Jun 20 10:58:49 EEST 2019","2268","","TODO:","","TODO:","create quickly task","create quickly task",""
+"passed","Thu Jun 20 10:58:40 EEST 2019","Thu Jun 20 10:58:46 EEST 2019","6040","","TODO:","","TODO:","create task in project","create task in project",""
+"passed","Thu Jun 20 10:58:46 EEST 2019","Thu Jun 20 10:58:47 EEST 2019","566","","TODO:","","TODO:","delete new project with API","delete new project with API",""

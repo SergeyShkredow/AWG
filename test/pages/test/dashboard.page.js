@@ -9,7 +9,7 @@ class DashboardPage extends Page {
   get btnAdd () { return browser.element('.submit_btn') }
   get rowSearch () { return browser.element('.quick_find.fixed_pos') }
   get findItem () { return browser.element('.sel_item_content') }
-  get projectLink () { return browser.element('span=project_tests') }
+  get projectLink () { return browser.element('span=Run_test_Todo') }
   get addTaskProject () { return browser.element('.action_add_item') }
   get header () { return browser.element('.project_link') }
   get setProject () { return browser.element('.column_project') }
@@ -18,7 +18,7 @@ class DashboardPage extends Page {
     super.open('/')
   }
 
-  createTask (task, bindProject) {
+  createTask ({newTask, bindProject}) {
     // check visibility field for create task
     this.addInput.waitForVisible()
     if (bindProject) {
@@ -26,13 +26,13 @@ class DashboardPage extends Page {
       browser.keys('Enter')
     }
     // fill in the task name field
-    this.addInput.setValue(task)
+    this.addInput.setValue(newTask)
     this.btnAdd.click()
     // check created new task
     this.rowSearch.waitForVisible()
-    this.rowSearch.setValue(task)
+    this.rowSearch.setValue(newTask)
     browser.keys('Enter')
-    expect(browser.getText(this.findItem.selector)).to.equal(task)
+    expect(browser.getText(this.findItem.selector)).to.equal(newTask)
   }
 }
 export default new DashboardPage()

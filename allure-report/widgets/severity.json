@@ -1,30 +1,30 @@
 [ {
-  "uid" : "c519e6ed14f507c1",
-  "name" : "create task in project",
-  "time" : {
-    "start" : 1559487314688,
-    "stop" : 1559487318967,
-    "duration" : 4279
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "9e7a076f4b0a68d2",
-  "name" : "create task with bind project",
-  "time" : {
-    "start" : 1559487318970,
-    "stop" : 1559487323347,
-    "duration" : 4377
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "6ff381a5ac7bf076",
+  "uid" : "5584c1b731c3158f",
   "name" : "create quickly task",
   "time" : {
-    "start" : 1559487308122,
-    "stop" : 1559487314685,
-    "duration" : 6563
+    "start" : 1561017527254,
+    "stop" : 1561017529522,
+    "duration" : 2268
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "e8ebf295b8fb3ad",
+  "name" : "delete new project with API",
+  "time" : {
+    "start" : 1561017526685,
+    "stop" : 1561017527251,
+    "duration" : 566
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ec98510c714b86",
+  "name" : "create task in project",
+  "time" : {
+    "start" : 1561017520644,
+    "stop" : 1561017526684,
+    "duration" : 6040
   },
   "status" : "passed",
   "severity" : "normal"

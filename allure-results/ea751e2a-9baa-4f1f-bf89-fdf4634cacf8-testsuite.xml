@@ -1,0 +1,103 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1561019585634' stop='1561019602407'>
+    <name>TODO:</name>
+    <title>TODO:</title>
+    <test-cases>
+        <test-case start='1561019587997' status='undefined'>
+            <name>create task in project</name>
+            <title>create task in project</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1561019593271' status='passed' stop='1561019597120'>
+            <name>create task in project</name>
+            <title>create task in project</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1561019597121' status='passed' stop='1561019597689'>
+            <name>delete new project with API</name>
+            <title>delete new project with API</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1561019597693' status='passed' stop='1561019599615'>
+            <name>create quickly task</name>
+            <title>create quickly task</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1561019599615' status='passed' stop='1561019601793'>
+            <name>create task with bind project</name>
+            <title>create task with bind project</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1561019601795' status='passed' stop='1561019602406'>
+            <name>tests</name>
+            <title>tests</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+                <parameter kind='environment-variable' name='capabilities' value='{"browserName":"chrome","maxInstances":"10"}'/>
+                <parameter kind='environment-variable' name='spec files' value='["/home/tarf/Рабочий стол/SERGEY/JOB/Tests/AWG/test/specs/test.spec.js"]'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
